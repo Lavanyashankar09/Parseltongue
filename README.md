@@ -11,4 +11,4 @@ PyWin32 build 218*
 
 Parseltongue Bundle contains all the specified programs mentioned above.
 
-Parseltongue Editor and Parseltongue Bundle can be download from our official website: http://www.parseltongue.ml
+Parseltongue Editor and Parseltongue Bundle can be download from our official website: https://pypi.org/project/parseltongue/
